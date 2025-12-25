@@ -1,0 +1,8 @@
+{
+  "name": "PlaylistTranscribe AI",
+  "description": "A powerful local-first tool for exporting and AI-polishing YouTube playlists into searchable knowledge bases.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
